@@ -1,17 +1,17 @@
 {
   "subtitle": "Take your ARVs every day", 
   "description": "Take your ARVs every day", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "HIV: How can I protect him? ", 
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-19T11:32:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-01-25T19:16:49.596492+00:00", 
+  "modified_at": "2016-01-25T19:27:33.555927+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 96, 
+  "position": 22, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-can-i-protect-him", 
   "uuid": "e5c48366fc3146879e5a3d62a6e2a121"
