@@ -1,17 +1,17 @@
 {
   "subtitle": "Here\u2019s how to care for your circumcised baby boy", 
   "description": "Here\u2019s how to care for your circumcised baby boy", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "Help your baby boy heal ", 
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-19T11:34:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-01-25T19:16:48.176301+00:00", 
+  "modified_at": "2016-01-25T19:27:35.109852+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 135, 
+  "position": 42, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "help-your-baby-boy-heal", 
   "uuid": "00d4b9a9b31b4ddbb4ed90e0ca8af3d0"
