@@ -1,17 +1,17 @@
 {
   "subtitle": "Follow this guide", 
   "description": "Follow this guide", 
-  "language": "eng_GB", 
+  "language": "eng_US", 
   "title": "How to cook food safely", 
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-19T10:44:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-01-25T19:16:52.407491+00:00", 
+  "modified_at": "2016-01-25T19:26:59.618691+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 66, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-cook-food-safely", 
   "uuid": "f763058aec3c47b0a69fc032fa3838d9"
