@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "2 months old", 
   "primary_category": "e84ab76f1d534cae991980c09cdb44c5", 
-  "created_at": "2016-01-26T10:14:45.334373+00:00", 
+  "created_at": "2016-01-26T10:14:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-01-26T10:14:45.334740+00:00", 
+  "modified_at": "2016-01-26T10:22:09.375006+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "2-months-old", 
   "uuid": "1941ee31704e48aea6d6f44890580cf6"
